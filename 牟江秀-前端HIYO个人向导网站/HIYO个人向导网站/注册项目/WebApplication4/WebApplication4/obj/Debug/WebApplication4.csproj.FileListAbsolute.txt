@@ -1,0 +1,31 @@
+c:\users\user\documents\visual studio 2010\Projects\WebApplication4\WebApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\user\Desktop\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\user\Desktop\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\user\Desktop\WebApplication4\WebApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\user\Desktop\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\lenovo\Documents\Tencent Files\1367703994\FileRecv\千注册项目\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\lenovo\Documents\Tencent Files\1367703994\FileRecv\千注册项目\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\lenovo\Documents\Tencent Files\1367703994\FileRecv\千注册项目\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\lenovo\Documents\Tencent Files\1367703994\FileRecv\千注册项目\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\lenovo\Desktop\千注册项目\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\lenovo\Desktop\千注册项目\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\lenovo\Desktop\千注册项目\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\lenovo\Desktop\千注册项目\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\user\Desktop\千注册项目\WebApplication4\WebApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\千注册项目\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\user\Desktop\千注册项目\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\user\Desktop\千注册项目\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\user\Desktop\千注册项目\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\lenovo\Documents\Tencent Files\1367703994\FileRecv\千注册项目\千注册项目\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\lenovo\Documents\Tencent Files\1367703994\FileRecv\千注册项目\千注册项目\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\lenovo\Documents\Tencent Files\1367703994\FileRecv\千注册项目\千注册项目\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\lenovo\Documents\Tencent Files\1367703994\FileRecv\千注册项目\千注册项目\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\lenovo\Documents\Tencent Files\1367703994\FileRecv\最新web\千注册项目\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\lenovo\Documents\Tencent Files\1367703994\FileRecv\最新web\千注册项目\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\lenovo\Documents\Tencent Files\1367703994\FileRecv\最新web\千注册项目\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\lenovo\Documents\Tencent Files\1367703994\FileRecv\最新web\千注册项目\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
